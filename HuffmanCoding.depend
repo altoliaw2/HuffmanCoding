@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1626256911 source:e:\codeworkshop\codeblock\projectdsalg\huffmancoding\main.cpp
+	<algorithm>
+	<deque>
+	<iostream>
+	<string>
+	<unordered_map>
+
