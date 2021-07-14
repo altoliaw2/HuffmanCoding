@@ -97,8 +97,6 @@ class Huffman{
     }
 };
 
-
-
 int main() {
     Huffman o_Huff;
 
